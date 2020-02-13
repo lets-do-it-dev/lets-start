@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code>fdhsfghs and save to reload.
+          Edit <code>src/App.js</code>2nd branch ajay .
         </p>
         <button className="btn btn-large btn-success">Lets do it </button>
         <a
